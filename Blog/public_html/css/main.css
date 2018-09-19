@@ -1,0 +1,63 @@
+
+body{
+    background-image: url('../img/bananas.png');/*subtlepatterns*/ 
+}
+
+.jumbotron{
+    background-color: #EFF556;
+    color: #34495E;
+}
+
+.panel-heading{
+    background-color: #EFF556 !important;
+    color: #34495E;
+}
+.panel-body{
+    color: #7FB3D5;
+}
+
+.navbar{
+    background-color: #34495E;
+}
+/*Seudo Clases-Normas
+:link
+:visited
+:hover
+:active
+*/
+.navbar-brand:link,.navbar-brand:visited{
+    color: white !important;
+}
+.navbar-brand:hover,.navbar-brand:active{
+    color: #F7FF00 !important;
+}
+
+#navbar li a:link, #navbar li a:visited{
+    color: white !important;
+}
+#navbar li a:hover, #navbar li a:active{
+    color: #F7FF00 !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
